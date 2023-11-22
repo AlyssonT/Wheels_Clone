@@ -1,0 +1,7 @@
+if(tier < 2) tier++;
+else if(tier == 2) {
+	var bomb = instance_create_depth(obj_crown_enemy.x-8, obj_crown_enemy.y, -20, obj_bomb);
+	bomb.alarm[0] = game_get_speed(gamespeed_fps)*1;
+}
+points_to_tierup = 6;
+sprite_index = global.mage_sprites_tiers[tier];

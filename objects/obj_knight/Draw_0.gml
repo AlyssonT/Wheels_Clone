@@ -1,0 +1,1 @@
+draw_sprite(global.knight_sprites_tiers[tier], 0, x,y);

@@ -1,0 +1,1 @@
+draw_sprite_part(spr_bulkward_enemy, 0, 0,0, 100, 6.4*hp, x,y);

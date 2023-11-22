@@ -1,0 +1,1 @@
+draw_sprite_part(spr_bulkward, 0, 0,0, 127, 6.4*hp, x,y);
