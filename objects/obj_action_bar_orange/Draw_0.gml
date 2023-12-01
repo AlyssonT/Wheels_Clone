@@ -1,5 +1,5 @@
-var x_offset = x+8;
-var y_offset = y;
+var x_offset = x+21;
+var y_offset = y+4;
 
 for(var i=0;i<parent.points_to_act;i++){
 	draw_sprite(spr_action_stick_orange, 0, x_offset, y_offset);

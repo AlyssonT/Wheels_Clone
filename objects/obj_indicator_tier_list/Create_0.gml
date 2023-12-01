@@ -1,4 +1,5 @@
-x_positions = [0,11,22,33,44,55];
+x+=8
+x_positions = [0,8,16,24,32,40];
 y_positions = [9,16,20,20,16,9];
 
 indicators = [];
