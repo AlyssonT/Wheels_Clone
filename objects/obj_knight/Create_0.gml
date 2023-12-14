@@ -1,4 +1,4 @@
-tier = 0;
+tier = 2;
 points_to_act = 3;
 points_to_tierup = 6;
 

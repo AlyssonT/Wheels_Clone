@@ -10,3 +10,6 @@ global.mage_sprites_tiers = [spr_mage_bronze, spr_mage_silver, spr_mage_gold];
 global.mage_attack_damage_crown = [2, 3, 3];
 global.mage_attack_damage_bulkwark = [2, 3, 5];
 global.mage_points_to_act = 5;
+
+global.part_system = part_system_create();
+part_system_depth(global.part_system, -100);

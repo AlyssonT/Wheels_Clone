@@ -66,6 +66,7 @@
     {"name":"obj_orange_tile_tierup","order":11,"path":"objects/obj_orange_tile_tierup/obj_orange_tile_tierup.yy",},
     {"name":"spr_sword","order":7,"path":"sprites/spr_sword/spr_sword.yy",},
     {"name":"spr_indicator_tierup_on","order":7,"path":"sprites/spr_indicator_tierup_on/spr_indicator_tierup_on.yy",},
+    {"name":"init","order":3,"path":"scripts/init/init.yy",},
     {"name":"obj_double_orange_tierup","order":15,"path":"objects/obj_double_orange_tierup/obj_double_orange_tierup.yy",},
     {"name":"obj_double_hammer","order":7,"path":"objects/obj_double_hammer/obj_double_hammer.yy",},
     {"name":"spr_mage_gold","order":4,"path":"sprites/spr_mage_gold/spr_mage_gold.yy",},
