@@ -14,6 +14,10 @@ A inspiração para este projeto surgiu da minha admiração pelo *Sea of Stars*
 
 Nesse clone há apenas os 2 campeões iniciais, o mago e o guerreiro.<br>
 
+## Vídeo
+
+[![Assista ao vídeo demonstrativo](http://img.youtube.com/vi/CnmFcs2-gPA/0.jpg)](http://www.youtube.com/watch?v=CnmFcs2-gPA)
+
 ## Como Jogar
 
 Navegue entre as opções da "Wheel" utilizando os setas para direita e para esquerda. Para travar um opção utilize a tecla "Z" e utilize "Space" para rodar!
