@@ -13,6 +13,7 @@ A inspiração para este projeto surgiu da minha admiração pelo *Sea of Stars*
 ## Informações
 
 Nesse clone há apenas os 2 campeões iniciais, o mago e o guerreiro.<br>
+Todos os sprites foram criados por mim, usando os sprites originais apenas de referência visual.
 
 ## Vídeo
 
