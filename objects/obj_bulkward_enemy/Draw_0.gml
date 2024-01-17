@@ -1,0 +1,1 @@
+draw_sprite_part(spr_bulkward_enemy, 0, 0, sprite_height-3.4*hp, sprite_width, sprite_height, x,y);

@@ -1,0 +1,1 @@
+draw_sprite_part(spr_bulkward, 0, 0, 0, sprite_width, 3.4*hp, x,y+sprite_height-3.4*hp);

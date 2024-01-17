@@ -1,0 +1,5 @@
+blue_points = 2;
+orange_points = 0;
+hammer_points = 0;
+blue_tierup_points = 1;
+orange_tierup_points = 0;
